@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.sistemasoperativos;
+package com.mycompany.productorconsumidor;
 
 /**
  *
  * @author luigi
  */
-public class SistemasOperativos {
+public class ProductorConsumidor {
 
     public static void main(String[] args) throws InterruptedException {
         Buffer buffer = new Buffer(50, "Buffer 1");
